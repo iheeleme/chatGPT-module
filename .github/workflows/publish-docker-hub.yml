@@ -4,7 +4,7 @@ on:
   # Test pub with dev tag
   push:
     branches:
-      - ci/fix-muti-platform
+      - master
   release:
     types: [published]
 
